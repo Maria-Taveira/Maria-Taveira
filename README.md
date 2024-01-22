@@ -1,6 +1,6 @@
 - 👋 Oii, eu sou a @Maria-Tavera
-- 👀 Ultimamamente tenho compartilhado os programas/trabalhos que realizo  e m  C++, portugol e python.
-- 🌱 Atualmente estou aprendendo a linguagem de C++, eu faço faculdade de  sistemas de informações atualmente e sou iniciante no ramo de programaç.
+- 👀 Ultimamamente tenho compartilhado os programas/trabalhos que realizo  e m  C++ e python.
+- 🌱 Atualmente estou aprendendo a linguagem C++, eu faço faculdade de  sistemas de informações atualmente e sou iniciante no ramo de programaç.
 - 📫 Como me encontrar: (17) 997153070 ou email: mbeatriz.taveira@hotmail.com
 
 <!---
