@@ -1,22 +1,28 @@
 <h1 align="center">Maria Beatriz Taveira</h1>
-<p align="center"><b>Java Backend · Integrations & APIs · Cloud & DevOps</b></p>
+<p align="center"><b>Backend Java · Integrações e APIs · Nuvem e DevOps</b></p>
 
 <p align="center">
   <a href="https://br.linkedin.com/in/maria-beatriz-taveira-alves-silva-98a58826b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## About
+## Sobre mim
 
-Backend engineer focused on **enterprise integrations** in Java. I work as an Oracle Retail consultant, building and deploying integrations for retail and healthcare clients across Latin America, from design to production rollout.
+Desenvolvedora backend com foco em **integrações corporativas** em Java. Atuo como consultora Oracle Retail, construindo e implantando integrações para clientes de varejo e saúde na América Latina, do desenho à entrada em produção.
 
-My day-to-day covers code review, direct client support, deployment pipelines and observability, and writing the runbooks that let other teams operate what I ship. I care about systems that are easy to deploy, easy to debug and easy to hand over.
+No dia a dia faço code review, atendo clientes diretamente, cuido de pipelines de deploy e observabilidade e escrevo os runbooks que permitem a outras equipes operar o que eu entrego. Valorizo sistemas fáceis de implantar, de depurar e de passar adiante.
 
-Bachelor's degree in Information Systems, IFSP (2026). Fluent in English and Spanish.
+Bacharelado em Sistemas de Informação pelo IFSP (2026).
 
-## What I work with
+## Idiomas
+
+- **Português:** nativo
+- **Inglês:** avançado, uso profissional (documentação, reuniões e código)
+- **Espanhol:** avançado, uso profissional (atendimento a clientes na América Latina)
+
+## Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white)
@@ -32,18 +38,18 @@ Bachelor's degree in Information Systems, IFSP (2026). Fluent in English and Spa
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-## Featured projects
+## Projeto em destaque
 
 ### [floodgate](https://github.com/Maria-Taveira/floodgate)
-A Java service that adapts to load: it handles requests directly under light traffic, distributes them across instances as concurrency grows, and switches to a queue with asynchronous e-mail replies under heavy load (AWS SQS).
+Serviço Java que se adapta à carga: processa as requisições diretamente com pouco tráfego, distribui entre instâncias conforme a concorrência cresce e passa a usar fila com envio assíncrono de e-mail sob carga alta (AWS SQS).
 `Java` `Spring Boot` `Docker` `AWS`
 
-## How I work
+## Como eu trabalho
 
-- **Documentation is part of the delivery.** Architecture diagrams, runbooks and READMEs that someone else can follow.
-- **Operability first.** Logging, observability and failure handling are designed in, not added later.
-- **Reviews and mentoring.** I review code, support clients directly and enjoy explaining the "why" behind technical decisions.
+- **Documentação faz parte da entrega.** Diagramas de arquitetura, runbooks e READMEs que outra pessoa consegue seguir.
+- **Operação em primeiro lugar.** Logs, observabilidade e tratamento de falhas entram no desenho, não depois.
+- **Revisão e mentoria.** Reviso código, apoio clientes diretamente e gosto de explicar o porquê das decisões técnicas.
 
-## Contact
+## Contato
 
-Open to conversations about backend, integrations and cloud engineering. Reach me on [LinkedIn](https://br.linkedin.com/in/maria-beatriz-taveira-alves-silva-98a58826b).
+Aberta a conversas sobre backend, integrações e engenharia em nuvem. Me encontre no [LinkedIn](https://br.linkedin.com/in/maria-beatriz-taveira-alves-silva-98a58826b).
